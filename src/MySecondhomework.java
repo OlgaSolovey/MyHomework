@@ -66,6 +66,14 @@ public class MySecondhomework {
         } else {
             System.out.println("нечетное");
         }
+        /* 1. При помощи цикла for вывести на экран нечетные числа от 1 до 99.*/
+        for (int i = 1; i <= 99; i++) {
+            System.out.println(i);
+        }
+        /* 2. Необходимо вывести на экран числа от 5 до 1.*/
+        for (int j = 5; j >=1; j--) {
+            System.out.println(j);
+        }
 
     }
 
