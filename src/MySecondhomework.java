@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class MySecondhomework {
     public static void main(String[] args) {
          /* 1. Написать программу для вывода названия поры года по номеру
@@ -53,5 +55,18 @@ public class MySecondhomework {
         } else if (numberOfMonth2 >= 1 || numberOfMonth2 <= 2 || numberOfMonth2 == 12) {
             System.out.println("winter");
         }
+          /*  3. Напишите программу, которая будет принимать на вход число и
+          на выход будет выводить сообщение четное число или нет. Для определения
+          четности числа используйте операцию получения остатка от деления (операция выглядит так: '% 2').
+           */
+        Scanner scanner = new Scanner(System.in);
+        int number = scanner.nextInt();
+        if (number % 2 == 0) {
+            System.out.println("четное");
+        } else {
+            System.out.println("нечетное");
+        }
+
     }
+
 }
