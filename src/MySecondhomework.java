@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class MySecondhomework {
     public static void main(String[] args) {
-         /* 1. Написать программу для вывода названия поры года по номеру
+        /* 1. Написать программу для вывода названия поры года по номеру
 месяца. При решении используйте оператор switch-case.*/
         int numberOfMonth = 9;
         switch (numberOfMonth) {
