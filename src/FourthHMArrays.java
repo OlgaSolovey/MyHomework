@@ -76,14 +76,20 @@ public class FourthHMArrays {
         array2[i] = elementsNumber;
 
     }
+        boolean zero = false;
         for (int j = 0; j < array2.length; j++) {
-        if (array2[j] == 0) {
-            zeroElement = zeroElement + 1;
+            if (array2[j] == 0) {
+                zero = true;
+                zeroElement = zeroElement + 1;
+            }
+
+        }
+        if (zero) {
             System.out.println("количество нулей:" + zeroElement);
         } else {
-            System.out.println("нулей нет"); // дублирует строку после каждого прохода цикла (НАЙТИ ВАРИАНТ ВЫВОДА ОДИН РАЗ)
+            System.out.println("нулей нет");
         }
-    }
+
     /*5. пройти по массиву и поменять местами первый и последний, второй и предпоследний и т.д.*/
         System.out.println();
     Scanner all_elements3 = new Scanner(System.in);
