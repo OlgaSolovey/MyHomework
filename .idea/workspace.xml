@@ -4,14 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add Hospital.">
-      <change afterPath="$PROJECT_DIR$/src/Animals/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/AnimalDo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Animals/Tiger.java" afterDir="false" />
+    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add Animals.">
+      <change afterPath="$PROJECT_DIR$/src/Factory/BelarusianHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Hen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/MoldovanHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/RussianHen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory/UkrainianHen.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/FourthHMArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/FourthHMArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals/Animal.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals/AnimalDo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals/Cow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Animals/Tiger.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +47,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Admin1/IdeaProjects/MyHomework/src"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Admin1/IdeaProjects/MyHomework/src&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Admin1\IdeaProjects\MyHomework\src" />
@@ -135,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665977895912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add Animals.">
+      <created>1666550126394</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666550126394</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +167,7 @@
     <MESSAGE value="add exercise 1.2 and 2.2 master . add 4" />
     <MESSAGE value="add 3.2 4.2 5.2 6.2" />
     <MESSAGE value="add Hospital." />
-    <option name="LAST_COMMIT_MESSAGE" value="add Hospital." />
+    <MESSAGE value="add Animals." />
+    <option name="LAST_COMMIT_MESSAGE" value="add Animals." />
   </component>
 </project>
