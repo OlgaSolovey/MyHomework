@@ -105,8 +105,11 @@ public class FourthHMArrays {
         s = array3[j];
         array3[j] = array3[array3.length - j - 1];
         array3[array3.length - j - 1] = s;
-        System.out.print(array3[j]);
     }
+
+        for(int x: array3){
+            System.out.println(x);
+        }
     /*6. проверить, является ли массив возрастающей последовательностью (каждое следующее число больше предыдущего)*/
     Scanner all_elements4 = new Scanner(System.in);
     int arraySize4 = all_elements4.nextInt();
