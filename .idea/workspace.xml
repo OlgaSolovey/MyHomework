@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add Animals.">
-      <change afterPath="$PROJECT_DIR$/src/Factory/BelarusianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/Hen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/MoldovanHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/RussianHen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory/UkrainianHen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Animal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/AnimalDo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Cow.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Animals/Tiger.java" beforeDir="false" />
-    </list>
+    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add HW10." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,6 +47,9 @@
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin1\IdeaProjects\MyHomework\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="HW10" />
     </key>
   </component>
   <component name="RunManager" selected="Application.lesson4">
@@ -147,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666550126394</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="add HW10.">
+      <created>1667194522176</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1667194522176</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +165,7 @@
     <MESSAGE value="add 3.2 4.2 5.2 6.2" />
     <MESSAGE value="add Hospital." />
     <MESSAGE value="add Animals." />
-    <option name="LAST_COMMIT_MESSAGE" value="add Animals." />
+    <MESSAGE value="add HW10." />
+    <option name="LAST_COMMIT_MESSAGE" value="add HW10." />
   </component>
 </project>
