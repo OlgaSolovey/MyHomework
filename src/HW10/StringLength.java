@@ -23,23 +23,12 @@ public class StringLength {
             }
         }
 
-        int min = str[0].length();
+        String min = str[0];
         for (int j = 0; j < str.length; j++) {
-            if (str[j].length() < min) {
-                min = str[j].length();
+            if (str[j].length() <= min.length()) {
+                min = str[j];
                 System.out.println("Самая короткая строка:" + str[j] + " " + "Длина строки:" + min);
             }
         }
     }
 }
-
-
-
-
-
-
-
-
-
-
-
