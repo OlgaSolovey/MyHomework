@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add HW13.">
+    <list default="true" id="bee5cc9b-3124-46a7-b7d3-f6970cf7c2a0" name="Changes" comment="add HW14.">
+      <change afterPath="$PROJECT_DIR$/src/HW15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Hospital/HospitalTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Hospital/HospitalTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +52,20 @@
       <recent name="C:\Users\Admin1\IdeaProjects\MyHomework\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="HW10" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.HW15">
     <configuration name="FourthHomework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FourthHomework" />
+      <module name="MyHomework" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HW15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HW15" />
       <module name="MyHomework" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HW15" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.lesson4" />
         <item itemvalue="Application.FourthHomework" />
@@ -189,7 +198,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667897180926</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="add HW14.">
+      <created>1668381194737</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1668381194737</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -214,6 +230,7 @@
     <MESSAGE value="add HW11." />
     <MESSAGE value="add HW12." />
     <MESSAGE value="add HW13." />
-    <option name="LAST_COMMIT_MESSAGE" value="add HW13." />
+    <MESSAGE value="add HW14." />
+    <option name="LAST_COMMIT_MESSAGE" value="add HW14." />
   </component>
 </project>
